@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h4>FARKHAN ABDILAH // INF_ENG.SOLUSINET.NOC</h4>
+  <h4>FARKHAN ABDILAH // INF_ENG.DEV.NOC.DESIGN</h4>
   <p>Status: **ACTIVE** | Clearence: **RED TEAM**</p>
 </div>
 
