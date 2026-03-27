@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="profile_header.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="450" />
+  <img src="nino-gotoubun.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="450" />
 </div>
 
 <br />
