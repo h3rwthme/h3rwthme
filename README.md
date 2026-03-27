@@ -1,94 +1,81 @@
 <div align="center">
-  <h3>Jahirrr / README.md</h3>
+  <h3>h3rwthme / README.md</h3>
 </div>
 
 <div align="center">
-  <img src="ghibli_avatar.gif" alt="Ghibli Character" width="450" />
-</div>
-
-<br />
-
-Hi, I'm Zahir Hadi Athallah, or you can call me Zahir. I'm a student from Indonesia 🇮🇩 who loves to code! I started playing with codes at 6th grade elementary school (around 11 years old, 2018) with plain HTML/CSS and JavaScript. Now I've quite mastered a few skills such as JavaScript, Python, Java, CPP, and a many Web Development Framework.
-
-<br />
-
-* 🌱 I Can Codes In :
-    * HTML/CSS
-    * PHP
-    * JavaScript && TypeScript
-    * Python
-    * Java/XML
-    * Dart
-    * Go
-    * C / C++ / C#
-    * Assembly
-    * Solidity & Motoko
-    * <del>DreamScript</del> hehe
-
-<br />
-
-* 🔭 I’m currently working on "Silhouette" Projects
-* 🌱 I’m currently learning Computer Science
-
-<br />
-
-My LinkedIn Account :
-* Visit My [Account](https://linkedin.com/in/nama-anda)
-
-<br />
-
-Donate For Support Me :)
-* [Click Here](https://donate.example.com)
-
-<br />
-<br />
-<br />
-
-<div align="center">
-  <img src="https://img.icons8.com/fluency/96/lock.png" alt="Lock Icon" width="64"/>
+  <img src="profile_header.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="450" />
 </div>
 
 <br />
 
+Hi, I'm **Farkhan Abdilah**, an Informatics Engineering Student at Politeknik Negeri Jakarta 🎓 with a deep passion for bridging the gap between networking and coding (NetDevOps). 🚀
+
+I have a strong background in both hardware and software, focusing on **Cyber Security** and **Network Infrastructure**. I'm dedicated to securing systems and optimizing networks for performance and resilience.
+
+<br />
+
+* 🏆 Juara 2 Tingkat Jakarta Pusat - LKS Cyber Security Competition
+* 🥈 **Juara 2 Tingkat Nasional - KMIPN 2025 Bidang Keamanan Siber**
+* 📡 NOC Supervisor at PT Lentera Abadi Solusinet (Network Operations Center)
+
+<br />
+
+* 🌱 I Can Manage & Secure :
+    * Network Performance & Monitoring (NOC)
+    * Cyber Security & Penetration Testing (CTF Contester)
+    * Network Configuration (MikroTik, Cisco Networking)
+    * Hardware & Software Troubleshooting
+    * Operating Systems: CachyOS (Arch-based), BlackArch
+
+<br />
+
+* 🔬 I’m currently diving deeper into Red Teaming & Penetration Testing
+* ☁️ I'm focusing on securing cloud infrastructure
+* 🌱 I’m currently mastering advanced topics in Computer Science
+
+<br />
+
+My Professional Accounts :
+* Visit My [LinkedIn](https://www.linkedin.com/in/farkhan-abdilah)
+
+<br />
+
 <div align="center">
-  <h3>⚡ Tech Stack</h3>
+  <h3>⚡ Tech Stack & Tools</h3>
 </div>
 <hr />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" />
+  <img src="https://img.shields.io/badge/mikrotik-%23000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/cisco-%2300A1DE.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </div>
 
+<br />
 <br />
 
 <h3>About Me</h3>
 <hr />
 
 ```javascript
-const Jahirrr = () => {
+const Farkhan = () => {
     return {
         pronouns: "He" || "Him",
-        askMeAbout: ["Front End & Back End Web Development", "Mobile Development"],
-        technologies: {
-            frontEnd: ["ReactJS", "VueJS"],
-            backEnd: ["ExpressJS", "Flask", "Django"],
-            database: ["MongoDB"],
-            mobileDevelopment: ["Java", "Flutter", "React Native"]
-        }
+        roles: ["Cyber Security Enthusiast", "Network Engineer", "Software Developer"],
+        skills: {
+            security: ["CTF", "Penetration Testing", "Security Assessment"],
+            networking: ["NOC Operations", "MikroTik Routing", "Cisco Networking", "Monitor Engineering"],
+            operatingSystems: ["CachyOS (Arch-based)", "BlackArch Linux"]
+        },
+        focus: "Joining a Red Team & Mastering Infrastructure as Code (NetDevOps)"
     }
 }
