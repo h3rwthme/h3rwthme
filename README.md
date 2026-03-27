@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="nino-gotoubun.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="150" />
+  <img src="nino-gotoubun.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="250" />
 </div>
 
 <div align="center">
