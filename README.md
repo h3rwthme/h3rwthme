@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/server.png" alt="Server Icon" width="64"/>
+  <img src="nino-gotoubun.gif" alt="Farkhan Abdilah - Cyber & Network Hero" width="450" />
 </div>
 
 <div align="center">
