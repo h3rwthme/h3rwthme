@@ -41,7 +41,7 @@ My Professional Accounts :
 <br />
 
 <div align="center">
-  <h3>⚡ Tech Stack & Tools</h3>
+  <h3>MY TOOLS</h3>
 </div>
 <hr />
 
